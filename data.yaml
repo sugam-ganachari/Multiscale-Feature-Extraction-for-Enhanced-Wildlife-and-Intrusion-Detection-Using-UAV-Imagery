@@ -1,6 +1,6 @@
-train: C:/Users/SUGAM/Desktop/Major_Project/WAID-final - Copy/images/train
-test: C:/Users/SUGAM/Desktop/Major_Project/WAID-final - Copy/images/test
-val: C:/Users/SUGAM/Desktop/Major_Project/WAID-final - Copy/images/test
+train: /content/WAID-final - Copy/images/train
+test: /content/WAID-final - Copy/images/test
+val: /content/WAID-final - Copy/images/test
 
 nc: 10
 names: ['sheep', 'cattle', 'seal', 'kiang','camelus', 'zebra', 'crocodile', 'elephant', 'deer', 'horse']
